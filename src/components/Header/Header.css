@@ -1,0 +1,30 @@
+.head {
+    background-color: whitesmoke;
+    padding: 14px;
+    margin: 0;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+}
+
+.h-text {
+    flex: start;
+    padding: 24px;
+    margin: 14px;
+    width: 155x;
+    size: 34px;
+
+
+}
+.h-button {
+    flex-direction: row;
+    margin-left: auto;
+}
+.btn {
+    padding: 18px;
+    margin: 20px;
+    width: 170px;
+    border-radius: 24px;
+    border: 1 solid;
+   
+}

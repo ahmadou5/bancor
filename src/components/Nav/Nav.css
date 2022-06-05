@@ -1,0 +1,26 @@
+.nav {
+    margin-top: 389px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    width: 1260px;
+    height: 78px;
+    border-radius: 14px;
+    z-index: 50;
+    display: flex;
+}
+.link {
+    padding: 13px;
+    margin:20px;
+
+}
+.div-link {
+    margin: 15px;
+    background-color:whitesmoke;
+    padding: 14px;
+    border-radius: 13px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    cursor: pointer;
+}
